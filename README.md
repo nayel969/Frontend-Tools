@@ -175,8 +175,6 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [Dot Com Tools](https://www.dotcom-tools.com/website-speed-test.aspx)
 - [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
 
-## Scaffolding Tools
-
 ## Websites For Icons
 
 - [The Noun Project](https://thenounproject.com/)
