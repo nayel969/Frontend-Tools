@@ -368,5 +368,3 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 
 - [Seti Ui](https://atom.io/themes/seti-ui)
 - [Seti Syntax](https://atom.io/themes/seti-syntax)
-
-## Gulpjs Recommended Packages
